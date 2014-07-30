@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.luxbet.sportingsolutions.UnifiedDataAPIClient</groupId>
+  <artifactId>SS.Integration.UnifiedDataAPIClient.Java</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20140730014406</lastUpdated>
+  </versioning>
+</metadata>
